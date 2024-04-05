@@ -9,7 +9,7 @@ NG
 # Team Member
 Member 1:https://github.com/Gauthamkrishna27
 
-MEmber 2:
+Member 2:
 
 ## Idea
 An online website where students can interact with their teachers to clear their doubts and get assisted in their projects and assignments. 
