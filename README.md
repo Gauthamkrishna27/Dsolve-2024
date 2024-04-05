@@ -4,18 +4,18 @@
 
 
 ## Team Name
-Name  
+NG
 
 # Team Member
-Member 1 Github Link
+Member 1:https://github.com/Gauthamkrishna27
 
-MEmber 2 Github Link
+MEmber 2:
 
 ## Idea
-Breif Idea in two three sentences 
+An online website where students can interact with their teachers to clear their doubts and get assisted in their projects and assignments. 
 
 ## Features 
-1. 
+1. Student friendly
 
 ## Link to product walkthrough
 [link to video](Link Here)
